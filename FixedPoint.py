@@ -42,7 +42,7 @@ def fixedPoint(equation, recurrentEquation, Xo, epsilon, maxIterations):
         return "error"
 
 
-fixedPoint('x*x*x + x*x -1', '1/sqrt(1+x)', '2', '0.00001', '10')
+# fixedPoint('x*x*x + x*x -1', '1/sqrt(1+x)', '2', '0.00001', '10')
 
 
 def FixedPoint_win():
